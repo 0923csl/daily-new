@@ -1,1 +1,1 @@
-# daily-new
+# daily
